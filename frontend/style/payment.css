@@ -1,0 +1,117 @@
+html{
+    scroll-behavior: smooth;
+}
+/* navbar */
+.navbar{
+    padding-left: 100px;
+    padding-right: 100px;
+    border-bottom: 1px solid #000;
+}
+.navbar-brand{
+    font-family: "Montserrat", sans-serif;
+    font-weight: 600;
+    font-size: 25px;
+}
+/* booking */
+.booking{
+    margin-top: 75px;
+    margin-left: 100px;
+    margin-right: 100px;
+}
+.booking-site{
+    margin-top: 60px;
+}
+.product-info{
+    margin-left: 30px;
+}
+.product-info h1{
+    font-family: "Jost", sans-serif;
+    font-size: 20px;
+    font-weight: 500;
+}
+.product-info span{
+    font-family: "Jost", sans-serif;
+    font-size: 20px;
+    font-weight: 400;
+    color: #C6C6C6;
+}
+.product-info p{
+    margin-top: 170px;
+    font-family: "Jost", sans-serif;
+    font-size: 20px;
+    font-weight: 400;
+}
+.line-product{
+    margin-top: 30px;
+    width: 715px;
+    height: 0.5px;
+    background-color: #929292;
+    margin-left: 0px;
+}
+.product-summary{
+    margin-left: 130px;
+}
+.product-summary h1{
+    font-family: "Poppins", sans-serif;
+    font-size: 25px;
+    font-weight: 600;
+}
+.product-summary table td{
+    font-family: "Jost", sans-serif;
+    font-size: 16px;
+    font-weight: 400;
+}
+
+.btn-continue{
+    width: 395px;
+    height: 80px;
+    background-color: #353535;
+    font-family: "Jost", sans-serif;
+    font-size: 20px;
+    font-weight: 300;
+    color: #fff;
+    border-radius: 40px;
+}
+.btn-continue:hover{
+    color: #fff;
+}
+.btn-cancel{
+    width: 395px;
+    height: 80px;
+    background-color: #E7E7E7;
+    font-family: "Jost", sans-serif;
+    font-size: 20px;
+    font-weight: 300;
+    border-radius: 40px;
+}
+.data h1{
+    font-family: "Poppins", sans-serif;
+    font-size: 25px;
+    font-weight: 400;
+}
+.form-group label{
+    font-family: "Jost", sans-serif;
+    font-size: 20px;
+    font-weight: 400;
+}
+.form-control{
+    width: 390px;
+    height: 50px;
+    border: 1px solid #c9c9c9;
+    font-family: "Jost", sans-serif;
+    font-size: 20px;
+    font-weight: 400;
+}
+.line-data{
+    margin-top: 30px;
+    width: 1px;
+    height: 450px;
+    background-color: #929292;
+    margin-left: 348px;
+}
+.custom-file-input{
+    width: 200px;
+    font-family: "Poppins",sans-serif;
+    font-size: 14px;
+    color: #2a2a2a;
+}
